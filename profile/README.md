@@ -1,4 +1,4 @@
-I do stuff with my ESP32
+I do stuff
 
 I never complete a project I start
 
